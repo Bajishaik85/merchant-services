@@ -1,0 +1,77 @@
+body{
+  width: 100
+}
+.color-1{
+  color: #f4f6fa;
+}
+.color-2{
+  color: #8c42f2;
+}
+.color-3{
+  color: #c895fa;
+}
+.color-4{
+ color: #295176 ;
+}
+.bg-color-1{
+  background-color: #f4f6fa;
+}
+.bg-color-2{
+  background-color: #8c42f2;
+}
+.bg-color-3{
+  background-color: #c895fa;
+}
+.a-1:hover{
+  color:#8c42f2;
+}
+
+
+
+.bg-div{
+  background-image: url(../images/bg.png);
+  background-size: cover;
+}
+.coupon{
+  font-size: smaller;
+}
+#a-1:hover{
+  color: #8c42f2;!important
+
+}
+
+.coupon-btn{
+  height: 60px;
+  width: 250px;
+  font-weight:500;
+  background-color:white;
+  border-color: black;
+}
+.coupon-btn:hover{
+  border: dashed;
+}
+.second-div{
+  background-color: #FCFBFC;
+  overflow: hidden;
+}
+.third-div{
+  background-color:ghostwhite;
+}
+.font-size{
+  font-size: 0.9rem !important;
+}
+.card-1{
+  margin: 5px;
+}
+.card-1:hover{
+  background-color: lightpink;
+}
+.btn-1{
+  height: 50px;
+  width: 200px;
+  background-color:white;
+  font-size:larger;
+
+}
+
+
